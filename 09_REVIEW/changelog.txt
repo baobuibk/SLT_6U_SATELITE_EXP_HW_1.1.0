@@ -1,0 +1,5 @@
+Đổi U36 footprint
+Thêm 1 HD4
+Thêm 2 lỗ giữa M3
+Heater từ 4 => 8
+Solenoid từ 8 => 16

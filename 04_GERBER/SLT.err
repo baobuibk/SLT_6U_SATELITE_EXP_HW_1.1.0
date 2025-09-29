@@ -1,0 +1,4 @@
+Cannot convert the following lines in file "D:\1_Altium_Project\14_SLT\SLT_6U_SATELITE_EXP_HW\04_GERBER\SLT.apr":
+Line 9: Error Creating Aperture:  Width must be greater than 0.
+ for Dcode 18. 
+D18   ROUNDED             0.000       0.000       0.000  LINE       0.000
