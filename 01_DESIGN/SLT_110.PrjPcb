@@ -732,32 +732,32 @@ DocumentPath=Project Outputs for SLT\SLT_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SubSystem
-Value=SLT 6U Satellite
+Name=ApprovedBy
+Value=Vu Pham
 
 [Parameter2]
-Name=Revision
-Value=1.1.0
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter3]
-Name=MasterProject
-Value=SLT 6U Satellite
+Name=Date
+Value=09/29/2025
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=Date
-Value=09/29/2025
+Name=MasterProject
+Value=SLT 6U Satellite
 
 [Parameter6]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.1.0
 
 [Parameter7]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=SLT 6U Satellite
 
 [Configuration1]
 Name=Sources
