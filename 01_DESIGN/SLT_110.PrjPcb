@@ -632,102 +632,106 @@ DocumentPath=Project Outputs for SLT\Design Rule Check - SLT.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SLT\L1 TOP.gbr
+DocumentPath=Project Outputs for SLT_110\Design Rule Check - SLT.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SLT\L2 GND_1.gbr
+DocumentPath=Project Outputs for SLT\L1 TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SLT\L3 SIGNAL.gbr
+DocumentPath=Project Outputs for SLT\L2 GND_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SLT\L4 PWR.gbr
+DocumentPath=Project Outputs for SLT\L3 SIGNAL.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SLT\L5 GND 2.gbr
+DocumentPath=Project Outputs for SLT\L4 PWR.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SLT\L6 BOT.gbr
+DocumentPath=Project Outputs for SLT\L5 GND 2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SLT\Pick Place for SLT.csv
+DocumentPath=Project Outputs for SLT\L6 BOT.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SLT\Pick Place for SLT.txt
+DocumentPath=Project Outputs for SLT\Pick Place for SLT.csv
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SLT\SLT.DRR
+DocumentPath=Project Outputs for SLT\Pick Place for SLT.txt
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SLT\SLT.EXTREP
+DocumentPath=Project Outputs for SLT\SLT.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SLT\SLT.LDP
+DocumentPath=Project Outputs for SLT\SLT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SLT\SLT.REP
+DocumentPath=Project Outputs for SLT\SLT.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SLT\SLT.TXT
+DocumentPath=Project Outputs for SLT\SLT.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SLT\SLT.xls
+DocumentPath=Project Outputs for SLT\SLT.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SLT\SLT_Drawing_1.gbr
+DocumentPath=Project Outputs for SLT\SLT.xls
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SLT\SLT_Drillmap_1.gbr
+DocumentPath=Project Outputs for SLT\SLT_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SLT\SLT_Legend_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SLT\SLT_Legend_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SLT\SLT_Pads_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SLT\SLT_Pads_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SLT\SLT_Paste_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SLT\SLT_Paste_Top.gbr
+DocumentPath=Project Outputs for SLT\SLT_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SLT\SLT_Profile.gbr
+DocumentPath=Project Outputs for SLT\SLT_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for SLT\SLT_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for SLT\SLT_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for SLT\SLT_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for SLT\SLT_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -1821,7 +1825,7 @@ Net1=NetName=+1.8V|NetColor=$00CCFFFF
 Net2=NetName=+12V|NetColor=$0000BE00
 Net3=NetName=+12V_Heater|NetColor=$0099FF99
 Net4=NetName=+12V_IN|NetColor=$00FFFF6E
-Net5=NetName=+12V_Solenoid|NetColor=$00006600
+Net5=NetName=+12V_Solenoid|NetColor=$0033FF99
 Net6=NetName=+3.3V|NetColor=clYellow
 Net7=NetName=+5V_HD4|NetColor=$00FF99FF
 Net8=NetName=+5V_IO|NetColor=$00FF99FF
